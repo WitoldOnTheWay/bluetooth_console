@@ -1,0 +1,14 @@
+C:\source\repo\bluetooth_console\blue1\bin\Debug\net6.0\blue1.exe
+C:\source\repo\bluetooth_console\blue1\bin\Debug\net6.0\blue1.deps.json
+C:\source\repo\bluetooth_console\blue1\bin\Debug\net6.0\blue1.runtimeconfig.json
+C:\source\repo\bluetooth_console\blue1\bin\Debug\net6.0\blue1.dll
+C:\source\repo\bluetooth_console\blue1\bin\Debug\net6.0\blue1.pdb
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\blue1.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\blue1.AssemblyInfoInputs.cache
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\blue1.AssemblyInfo.cs
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\blue1.csproj.CoreCompileInputs.cache
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\blue1.dll
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\refint\blue1.dll
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\blue1.pdb
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\blue1.genruntimeconfig.cache
+C:\source\repo\bluetooth_console\blue1\obj\Debug\net6.0\ref\blue1.dll
